@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Secure a responsible career opportunity in the IT sector to fully utilize my learning and skills, while making a significant contribution towards the growth of the company.<br>
+Hi, I am a fresher in the IT field and have an interest in learning new technologies and working on simple projects. I like coding, learning new tools, and enhancing my skills. This GitHub is where I put up my practice projects and learning process.<br>
 
 
 ## 🌐 Socials:
